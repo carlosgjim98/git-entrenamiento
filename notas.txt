@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esta línea está en la rama feature/idea-1
+=======
+Esta línea pertenece a feature/idea-2
+>>>>>>> 26efd21 (cambio en idea-2)
