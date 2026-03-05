@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-
 Esta línea está en la rama feature/idea-1
 Esta línea pertenece a feature/idea-2
-
-=======
 Esta línea fue cambiada en master
->>>>>>> master
+
